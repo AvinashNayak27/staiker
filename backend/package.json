@@ -1,0 +1,20 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@coinbase/cdp-agentkit-core": "^0.0.7",
+    "@coinbase/cdp-langchain": "^0.0.8",
+    "@langchain/core": "^0.3.19",
+    "@langchain/langgraph": "^0.2.21",
+    "@langchain/openai": "^0.3.14",
+    "@reclaimprotocol/js-sdk": "^2.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4",
+    "ws": "^8.18.0",
+    "zod": "^3.22.4"
+  }
+}
